@@ -1,0 +1,7 @@
+pandas
+openyxl
+playwright
+tkinter
+Pyinstaller
+# playwright needs to be installed with the command:
+# playwright install
